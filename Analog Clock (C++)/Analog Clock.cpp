@@ -1,3 +1,5 @@
+// Edgar Barrera / Github: https://github.com/EdgarCastillo101/EdgarCastillo101
+
 #include <stdio.h>
 #include <conio.h>
 #include <math.h>
